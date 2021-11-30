@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuttiApp18</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="no_member_yet">No member yet?</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
