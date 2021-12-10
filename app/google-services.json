@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57345914524",
+    "project_id": "guttiapp18-a5fca",
+    "storage_bucket": "guttiapp18-a5fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57345914524:android:d6f66c89a22c69c18fdf59",
+        "android_client_info": {
+          "package_name": "com.mg3.guttiapp18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57345914524-ms79cukbhppofkhv7c6q2eukpljrtf52.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mg3.guttiapp18",
+            "certificate_hash": "aa4f1ba274647a6e52203c0cdac5040c02ce2cfb"
+          }
+        },
+        {
+          "client_id": "57345914524-5i250f994aorv091rf9ponb1nagtnch3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsF9hD0KuzUpSnrCqtaFcU5uJZW1NX5xM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57345914524-5i250f994aorv091rf9ponb1nagtnch3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

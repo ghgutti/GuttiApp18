@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@drawable/mainbackground">
+    android:background="@drawable/mainbackgroundw">
 
     <View
         android:layout_width="match_parent"
@@ -23,7 +23,7 @@
         <ImageView
             android:layout_width="200dp"
             android:layout_height="180dp"
-            android:src="@drawable/foxc_transp"
+            android:src="@drawable/egb_transp"
             android:layout_gravity="center" />
 
         <LinearLayout
@@ -46,6 +46,7 @@
                 android:layout_height="wrap_content">
 
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textInputEmail"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/email"
@@ -75,6 +76,7 @@
                 android:layout_height="wrap_content">
 
                 <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/textInputPassword"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:hint="@string/password"
@@ -87,6 +89,7 @@
 
 
         <Button
+            android:id="@+id/btnSignIn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Sign in"
@@ -113,6 +116,7 @@
                 android:textSize="18sp"/>
 
             <TextView
+                android:id="@+id/TextViewRegister"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/sign_up"
